@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 CS undergrad @ MIT Bangalore<br>Exploring ML systems, AI & robustness<br>Breaking models for research, fixing them for fun<br>Research + ML + web projects
 
 
